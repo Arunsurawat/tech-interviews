@@ -1,0 +1,47 @@
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log
+yarn-error.log
+.env
+*.env
+*.local
+
+# React build output
+build/
+dist/
+
+# TypeScript
+*.tsbuildinfo
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Dependency directories
+jspm_packages/
+
+# Coverage reports
+coverage/
+
+# Miscellaneous
+*.swp
+*.swo
+
+# Local build outputs
+*.tgz
+
+# Next.js build output
+.next/
